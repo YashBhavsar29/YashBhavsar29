@@ -14,7 +14,7 @@
 
 <br/>
 
-[![Profile Views](https://komarev.com/ghpvc/?username=yashgames2007&label=PLAYERS+JOINED&color=ff2d78&style=for-the-badge)](https://github.com/YashGames2007)
+[![Profile Views](https://komarev.com/ghpvc/?username=yashbhavsar29&label=PLAYERS+JOINED&color=ff2d78&style=for-the-badge)](https://github.com/YashGames2007)
 [![Portfolio](https://img.shields.io/badge/🌐_PORTFOLIO-VISIT-0d0d2e?style=for-the-badge)](https://yashgames2007-dev-portfolio-web.netlify.app/)
 [![Resume](https://img.shields.io/badge/📄_RESUME-VIEW-1a0533?style=for-the-badge)](https://drive.google.com/file/d/1YXAU3d5AghnW1lflJci5q4cNsfMXj0ZE/view?usp=drive_link)
 
@@ -315,19 +315,19 @@ Reusable Unity dialogue framework for NPC conversations. Designed for future AI 
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=yashgames2007&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=ff2d78&icon_color=ff2d78&text_color=ffffff&count_private=true" height="180"/>
+<img src="https://github-readme-stats.vercel.app/api?username=yashbhavsar29&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=ff2d78&icon_color=ff2d78&text_color=ffffff&count_private=true" height="180"/>
 &nbsp;&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yashgames2007&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=ff2d78&text_color=ffffff&langs_count=8" height="180"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yashbhavsar29&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=ff2d78&text_color=ffffff&langs_count=8" height="180"/>
 
 <br/><br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=yashgames2007&theme=tokyonight&hide_border=true&background=0d1117&stroke=ff2d78&ring=ff2d78&fire=ffd60a&currStreakLabel=ff2d78" width="55%"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=yashbhavsar29&theme=tokyonight&hide_border=true&background=0d1117&stroke=ff2d78&ring=ff2d78&fire=ffd60a&currStreakLabel=ff2d78" width="55%"/>
 
 </div>
 
 <br/><br/>
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YashGames2007&bg_color=0d1117&color=00d9ff&line=00d9ff&point=ffffff&area=true&hide_border=true" alt="GitHub Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=yashbhavsar29&bg_color=0d1117&color=00d9ff&line=00d9ff&point=ffffff&area=true&hide_border=true" alt="GitHub Activity Graph" />
 </div>
 
 
